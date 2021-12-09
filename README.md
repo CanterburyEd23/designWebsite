@@ -8,7 +8,7 @@ A Codecademy full-stack engineer course project, to build a mock-up style guide/
 
 ## Project Scope
 
-As this is being made with no real website to design from it in mind, this could be very open ended.  However, I shall confine this to a small and complementing colour scheme, and a small selection of fonts, for the sake of brevity.
+As this is being made with no real website to design from it in mind, this could be very open ended.  However, I shall confine this to a small and complementing colour scheme, and a small selection of fonts, for the sake of brevity.  As this site is meant to showcase design options for other sites, its own styling will be deliberately very minimal.  White background, black monospace text, and a minimum of decoration beyond what's necesary for clarity.
 
 ## Technology
 
