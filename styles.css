@@ -11,7 +11,36 @@ header p {
 }
 
 section {
-    border: 1px solid hsla(0, 0, 0, 0.5);
+    border: 1px solid rgba(0, 0, 0, 0.5);
+    margin: 10px;
+    padding: 10px;
+}
+
+.colourContainer {
+    display: inline-block;
+    width: 24%;
+    margin: 5px;
+    padding: 5px;
+}
+
+#colour1 {
+    background-color: #4a0b02;
+    color: white;
+}
+
+#colour2 {
+    background-color: #FFEED9;
+    color: black;
+}
+
+#colour3 {
+    background-color: #FFD8A6;
+    color: black;
+}
+
+#colour4 {
+    background-color: #700D00;
+    color: white;
 }
 
 footer {
